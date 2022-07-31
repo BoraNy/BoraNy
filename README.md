@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BoraNy
-- 👀 I’m interested in GPS and C++
-- 🌱 I’m currently learning on Embedded Systems
+- 👀 I’m interested in GPS and Programming
+- 🌱 I’m currently working on Embedded Systems and Control Algorithm
 - 💞️ I’m looking to collaborate on GPS and Embedded System Computing
 - 📫 How to reach me nyvirakbora@gmail.com
 
