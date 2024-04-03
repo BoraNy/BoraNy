@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoraNy
-- 🌱 I’m currently working on Embedded Systems, AI, and Control Algorithm
+- 🌱 I’m currently working on Embedded Systems, AI, and Control System
 - 📫 How to reach me nyvirakbora@gmail.com
 
 <!---
