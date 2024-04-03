@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BoraNy
-- 👀 I’m interested in GPS and Programming
-- 🌱 I’m currently working on Embedded Systems and Control Algorithm
-- 💞️ I’m looking to collaborate on GPS and Embedded System Computing
+- 🌱 I’m currently working on Embedded Systems, AI, and Control Algorithm
 - 📫 How to reach me nyvirakbora@gmail.com
 
 <!---
